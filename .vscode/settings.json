@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/linux99/Documents/VE/FLutter/clavier_compteur_ready/linux"
+    "cmake.sourceDirectory": "/home/linux99/Documents/VE/FLutter/clavier_compteur_ready/linux",
+    "cmake.configureOnOpen": false
 }
